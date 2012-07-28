@@ -9016,6 +9016,7 @@ Based on the following sources:
 <wire x1="91.44" y1="10.16" x2="93.98" y2="10.16" width="0.1524" layer="91"/>
 <pinref part="IC2" gate="P" pin="VCC"/>
 <pinref part="IC3" gate="P" pin="VCC"/>
+<junction x="91.44" y="10.16"/>
 </segment>
 </net>
 <net name="GND" class="0">
@@ -9113,6 +9114,7 @@ Based on the following sources:
 <wire x1="114.3" y1="2.54" x2="116.84" y2="2.54" width="0.1524" layer="91"/>
 <pinref part="IC2" gate="P" pin="GND"/>
 <pinref part="IC3" gate="P" pin="GND"/>
+<junction x="116.84" y="2.54"/>
 </segment>
 </net>
 <net name="+3V3" class="0">
